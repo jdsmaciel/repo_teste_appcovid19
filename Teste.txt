@@ -1,0 +1,5 @@
+PS E:\GIT\SENAC_TDS_PROJETO> git git push -u origin       
+PS E:\GIT\SENAC_TDS_PROJETO> git status   
+nothing to commit, working tree clean
+PS E:\GIT\SENAC_TDS_PROJETO> git branch -m master
+PS E:\GIT\SENAC_TDS_PROJETO> git remote add origin PS E:\GIT\SENAC_TDS_PROJETO> git status
